@@ -1,0 +1,12 @@
+//aqui solamente mandamos a llamar a otros estilos 
+
+// o sea lo importamos
+
+@import './base/settings';
+@import './base/base';
+@import './components/auth_main';
+@import './components/buttons';
+@import './components/links';
+@import './components/journal';
+@import './components/nothing.scss';
+@import './components/note';
